@@ -1,0 +1,7 @@
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\bin\x64\Release\WpfTest.exe.config
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\x64\Release\Simple Styles.baml
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\x64\Release\ListeLecture.g.cs
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\x64\Release\MainWindow.g.cs
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\x64\Release\App.g.cs
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\x64\Release\WpfTest_MarkupCompile.cache
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\x64\Release\WpfTest_MarkupCompile.lref

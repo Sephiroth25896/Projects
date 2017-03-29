@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyMedia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <chemin>
+    <string>C:\Users\julie\Music\Smallville Vol.2 - Metropolis Mix\01. Breaking Benjamin - Forget It.mp3</string>
+    <string>C:\Users\julie\Music\Smallville Vol.2 - Metropolis Mix\02. Depeche Mode - Precious.mp3</string>
+  </chemin>
+  <name>
+    <string>01. Breaking Benjamin - Forget It</string>
+    <string>02. Depeche Mode - Precious</string>
+  </name>
+</MyMedia>

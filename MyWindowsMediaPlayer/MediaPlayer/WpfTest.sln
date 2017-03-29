@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTest", "WpfTest\WpfTest.csproj", "{E22CADCA-8584-4912-9281-BDB35D81E954}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RiverSong", "RiverSong\RiverSong.vdproj", "{FB847E25-38A9-4AF3-B14D-62E60B936496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22CADCA-8584-4912-9281-BDB35D81E954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22CADCA-8584-4912-9281-BDB35D81E954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22CADCA-8584-4912-9281-BDB35D81E954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22CADCA-8584-4912-9281-BDB35D81E954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22CADCA-8584-4912-9281-BDB35D81E954}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FB847E25-38A9-4AF3-B14D-62E60B936496}.Debug|Any CPU.ActiveCfg = Debug
+		{FB847E25-38A9-4AF3-B14D-62E60B936496}.Release|Any CPU.ActiveCfg = Release
+		{FB847E25-38A9-4AF3-B14D-62E60B936496}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

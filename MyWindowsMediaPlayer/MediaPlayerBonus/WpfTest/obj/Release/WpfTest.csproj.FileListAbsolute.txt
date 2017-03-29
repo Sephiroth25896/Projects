@@ -1,0 +1,82 @@
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.exe.config
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.exe
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.pdb
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.csprojResolveAssemblyReference.cache
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\Simple Styles.baml
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\MainWindow.g.cs
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\App.g.cs
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.cache
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.lref
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\App.baml
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\MainWindow.baml
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.g.resources
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.Properties.Resources.resources
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.csproj.GenerateResource.Cache
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.exe
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.pdb
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\ListeLecture.g.cs
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\ListeLecture.baml
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.exe.config
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.exe
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.pdb
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.exe
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.pdb
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\LeapCSharp.NET4.0.dll
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\Simple Styles.baml
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\ListeLecture.g.cs
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\MainWindow.g.cs
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\App.g.cs
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.cache
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.lref
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\App.baml
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\ListeLecture.baml
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\MainWindow.baml
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.g.resources
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.Properties.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.csproj.GenerateResource.Cache
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\bin\Release\WpfTest.exe.config
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.exe
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.pdb
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\bin\Release\WpfTest.exe
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\bin\Release\WpfTest.pdb
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\bin\Release\taglib-sharp.dll
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.csprojResolveAssemblyReference.cache
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\Simple Styles.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\ListeLecture.g.cs
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\MainWindow.g.cs
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\App.g.cs
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest_MarkupCompile.cache
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest_MarkupCompile.lref
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\App.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\ListeLecture.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\MainWindow.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.g.resources
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.Properties.Resources.resources
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.csproj.GenerateResource.Cache
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\bin\Release\WpfTest.exe.config
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.exe
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.pdb
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\bin\Release\WpfTest.exe
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\bin\Release\WpfTest.pdb
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\bin\Release\policy.2.0.taglib-sharp.dll
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\bin\Release\taglib-sharp.dll
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\bin\Release\policy.2.0.taglib-sharp.config
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.csprojResolveAssemblyReference.cache
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\Simple Styles.baml
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\ListeLecture.g.cs
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\MainWindow.g.cs
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\App.g.cs
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest_MarkupCompile.cache
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest_MarkupCompile.lref
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\App.baml
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\ListeLecture.baml
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\MainWindow.baml
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.g.resources
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.Properties.Resources.resources
+D:\Epitech\MyWindowsMediaPlayerMaybe\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.csproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Epitech\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\bin\Release\WpfTest.exe.config
+C:\Users\kevin\Documents\Epitech\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.exe
+C:\Users\kevin\Documents\Epitech\MyWindowsMediaPlayer\MediaPlayerBonus\WpfTest\obj\Release\WpfTest.pdb

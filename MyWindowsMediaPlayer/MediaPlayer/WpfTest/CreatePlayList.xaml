@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTest.CreatePlayList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTest"
+        mc:Ignorable="d"
+        Title="CreatePlayList" Height="480" Width="800">
+    <Grid>
+        <TextBox x:Name="TitrePlayList" HorizontalAlignment="Left" Height="24.8" Margin="41.6,21,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="196"/>
+
+    </Grid>
+</Window>

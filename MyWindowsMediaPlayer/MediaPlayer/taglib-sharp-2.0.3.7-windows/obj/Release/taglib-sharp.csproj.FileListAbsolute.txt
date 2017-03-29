@@ -1,0 +1,1 @@
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\taglib-sharp-2.0.3.7-windows\obj\Release\taglib-sharp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,41 @@
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.exe.config
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.exe
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\bin\Release\WpfTest.pdb
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.csprojResolveAssemblyReference.cache
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\Simple Styles.baml
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\MainWindow.g.cs
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\App.g.cs
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.cache
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.lref
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\App.baml
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\MainWindow.baml
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.g.resources
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.Properties.Resources.resources
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.csproj.GenerateResource.Cache
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.exe
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\WpfTest.pdb
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\ListeLecture.g.cs
+C:\Users\julie\Documents\Visual Studio 2015\Projects\WpfTest\WpfTest\obj\Release\ListeLecture.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\bin\Release\WpfTest.exe.config
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest.exe
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest.pdb
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\bin\Release\WpfTest.exe
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\bin\Release\WpfTest.pdb
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\Simple Styles.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\ListeLecture.g.cs
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\MainWindow.g.cs
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\App.g.cs
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest_MarkupCompile.cache
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest_MarkupCompile.lref
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\App.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\ListeLecture.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\MainWindow.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest.g.resources
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest.Properties.Resources.resources
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest.csproj.GenerateResource.Cache
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\CreatePlayList.g.cs
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\CreatePlayList.baml
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\obj\Release\WpfTest.csprojResolveAssemblyReference.cache
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\bin\Release\taglib-sharp.dll
+C:\Users\julie\Documents\MyWindowsMediaPlayer\MediaPlayer\WpfTest\bin\Release\policy.2.0.taglib-sharp.config

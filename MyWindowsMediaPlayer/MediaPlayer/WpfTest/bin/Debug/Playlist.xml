@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyMedia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <chemin>
+    <string>C:\Users\julie\Music\Taylor Swift - Red (Exclusive Deluxe Edition) (2012) [FLAC]\CD1\01 State Of Grace.flac</string>
+    <string>C:\Users\julie\Music\Taylor Swift - Red (Exclusive Deluxe Edition) (2012) [FLAC]\CD1\02 Red.flac</string>
+    <string>C:\Users\julie\Music\Taylor Swift - Red (Exclusive Deluxe Edition) (2012) [FLAC]\CD1\03 Treacherous.flac</string>
+    <string>C:\Users\julie\Music\Taylor Swift - Red (Exclusive Deluxe Edition) (2012) [FLAC]\CD1\04 I Knew You Were Trouble..flac</string>
+    <string>C:\Users\julie\Music\Taylor Swift - Red (Exclusive Deluxe Edition) (2012) [FLAC]\CD1\05 All Too Well.flac</string>
+    <string>C:\Users\julie\Music\Taylor Swift - Red (Exclusive Deluxe Edition) (2012) [FLAC]\CD1\06 22.flac</string>
+    <string>C:\Users\julie\Music\Taylor Swift - Red (Exclusive Deluxe Edition) (2012) [FLAC]\CD1\11 Holy Ground.flac</string>
+    <string>C:\Users\julie\Videos\FILM DE PRESENTATION MY MIRROR-98.m4v</string>
+    <string>C:\Users\julie\Music\Portal Still Alive.mp3</string>
+  </chemin>
+  <name>
+    <string>01 State Of Grace</string>
+    <string>02 Red</string>
+    <string>03 Treacherous</string>
+    <string>04 I Knew You Were Trouble</string>
+    <string>05 All Too Well</string>
+    <string>06 22</string>
+    <string>11 Holy Ground</string>
+    <string>FILM DE PRESENTATION MY MIRROR-98</string>
+    <string>Portal Still Alive</string>
+  </name>
+</MyMedia>

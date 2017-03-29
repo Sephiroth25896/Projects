@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfTest.ListeLecture"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTest"
+        mc:Ignorable="d"
+        Title="ListeLecture" Closed="go_close" KeyDown="Key_pressed">
+    <Grid>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="370" Margin="118,17,0,0" VerticalAlignment="Top" Width="540">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>
